@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace PendingSchedule.Domain.Entities
 {
-    class PendingScheduleItem : Entity
+    public class PendingItem : Entity
     {
-        public PendingScheduleItem(string title, DateTime date, string user ,string description)
+        public PendingItem(string title, DateTime date, string user ,string description)
         {
             Title = title;
             Done = false;

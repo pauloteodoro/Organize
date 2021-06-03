@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PendingSchedule.Domain.Shared.Contracts
 {
-    interface ICommandResult
+    public interface ICommandResult
     {
     }
 }
