@@ -28,7 +28,7 @@ namespace PendingSchedule.Domain.Commands
                            User,
                            5,
                            Constants.NameAttributes.PendingScheduleItem.UserPendingScheduleItem,
-                           "Usuario deve ter no minimo 5 caracteres"
+                           "Usuario deve ter no minimo 5 caracteres "
                      )
                 );
         }
