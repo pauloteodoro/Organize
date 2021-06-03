@@ -1,0 +1,11 @@
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\bin\Debug\net5.0\PendingSchedule.Domain.deps.json
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\bin\Debug\net5.0\PendingSchedule.Domain.dll
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\bin\Debug\net5.0\ref\PendingSchedule.Domain.dll
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\bin\Debug\net5.0\PendingSchedule.Domain.pdb
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\obj\Debug\net5.0\PendingSchedule.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\obj\Debug\net5.0\PendingSchedule.Domain.AssemblyInfoInputs.cache
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\obj\Debug\net5.0\PendingSchedule.Domain.AssemblyInfo.cs
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\obj\Debug\net5.0\PendingSchedule.Domain.csproj.CoreCompileInputs.cache
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\obj\Debug\net5.0\PendingSchedule.Domain.dll
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\obj\Debug\net5.0\ref\PendingSchedule.Domain.dll
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain\obj\Debug\net5.0\PendingSchedule.Domain.pdb

@@ -1,0 +1,15 @@
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\bin\Debug\net5.0\PendingSchedule.Domain.Infra.deps.json
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\bin\Debug\net5.0\PendingSchedule.Domain.Infra.dll
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\bin\Debug\net5.0\ref\PendingSchedule.Domain.Infra.dll
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\bin\Debug\net5.0\PendingSchedule.Domain.Infra.pdb
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\obj\Debug\net5.0\PendingSchedule.Domain.Infra.csprojAssemblyReference.cache
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\obj\Debug\net5.0\PendingSchedule.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\obj\Debug\net5.0\PendingSchedule.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\obj\Debug\net5.0\PendingSchedule.Domain.Infra.AssemblyInfo.cs
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\obj\Debug\net5.0\PendingSchedule.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\obj\Debug\net5.0\PendingSchedule.Domain.Infra.dll
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\obj\Debug\net5.0\ref\PendingSchedule.Domain.Infra.dll
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\obj\Debug\net5.0\PendingSchedule.Domain.Infra.pdb
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\bin\Debug\net5.0\PendingSchedule.Domain.dll
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\bin\Debug\net5.0\PendingSchedule.Domain.pdb
+C:\Users\QRV\dev\PendingSchedule\PendingSchedule.Domain.Infra\obj\Debug\net5.0\PendingSchedule.Domain.Infra.csproj.CopyComplete
